@@ -1,0 +1,26 @@
+{
+  "name": "2-bases-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianAraneda/MicroservicioNode.git"
+  },
+  "author": "Fabian Araneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianAraneda/MicroservicioNode/issues"
+  },
+  "homepage": "https://github.com/FabianAraneda/MicroservicioNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
